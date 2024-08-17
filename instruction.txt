@@ -1,0 +1,22 @@
+EN
+INSTRUCTION!
+
+This project is very large, so I divided it into several archives!
+
+1. Install all archives and move them to a new folder.
+2. unpack the archive ending with 001 via 7z or winrar into a folder.
+3. Files from all other archives will pull up automatically!
+
+INSTALL HERE: https://t.me/babadjanov_dev/7
+========================================================================================
+
+RU
+ИНСТРУКЦИЯ!
+
+Данный проект очень большой, поэтому я его разделил на несколько архивов!
+
+1. Все архивы установите и перекиньте в новую папку.
+2. Архив оканчивающийся  на 001 через 7z или winrar распакуйте в папку.
+3. Файлы со всех остальных архивов подтянуться автоматически!
+
+УСТАНОВИТЕ ТУТ: https://t.me/babadjanov_dev/7
