@@ -1,5 +1,7 @@
 # Innominate-Mobile
-# This project is very large, so I uploaded it to my telegram channel: <a href="https://t.me/babadjanov_dev">Click here to install the project</a>
+> [!NOTE]
+> This project is very large, so I uploaded it to my telegram channel: <a href="https://t.me/babadjanov_dev">Click here to install the project</a>
+
 # Description
 Innominate is an exciting mobile horror game in which a young guy buys a strange house<br>
 and finds himself drawn into sinister events.<br>
@@ -18,10 +20,10 @@ Realistic graphics, increasing the sense of fear and tension<br>
 Exciting sound effects to complement the frightening atmosphere<br>
 # Screenshots
 
-<img src="https://github.com/strike11/Innominate-Mobile/tree/main/screenshots/screen-1.webp">
-<img src="https://github.com/strike11/Innominate-Mobile/tree/main/screenshots/screen-3.webp">
-<img src="https://github.com/strike11/Innominate-Mobile/tree/main/screenshots/screen-4.webp">
-<img src="https://github.com/strike11/Innominate-Mobile/tree/main/screenshots/screen-6.webp">
+<img src="https://github.com/strike11/Innominate-Mobile/blob/main/screenshots/screen-1.webp">
+<img src="https://github.com/strike11/Innominate-Mobile/blob/main/screenshots/screen-3.webp">
+<img src="https://github.com/strike11/Innominate-Mobile/blob/main/screenshots/screen-4.webp">
+<img src="https://github.com/strike11/Innominate-Mobile/blob/main/screenshots/screen-6.webp">
 
 
 # Installation
