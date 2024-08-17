@@ -1,6 +1,6 @@
 # Innominate-Mobile
 > [!NOTE]
-> This project is very large, so I uploaded it to my telegram channel: <a href="https://t.me/babadjanov_dev">Click here to install the project</a>
+> This project is very large, so I uploaded it to my telegram channel: <a href="https://t.me/babadjanov_dev/7">Click here to install the project</a>
 
 # Description
 Innominate is an exciting mobile horror game in which a young guy buys a strange house<br>
